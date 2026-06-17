@@ -2,8 +2,12 @@
 
 <img src="LINK_ẢNH_BANNER_CỦA_BẠN_NẾU_CÓ" alt="Banner" width="100%">
 
-## ✨ Who am I?
-[Giới thiệu ngắn về bản thân bạn, ví dụ: Tôi là một nhà phát triển Fullstack thích xây dựng các ứng dụng web tuyệt vời.]
+## 👨‍💻 About Me
+* 🎓 **Information Technology** student at **International University - VNU-HCM** (HCMIU).
+* 🎯 Passionate about **Software Engineering** and **Web Development**.
+* 🚀 Constantly learning new technologies and building cool side projects.
+* ⚡ Fun fact: I spend my free time playing soccer ⚽ with friends and exploring AI tools!
+
 
 ## 🚀 What I Do
 * 💻 Phát triển Web (Frontend & Backend)
@@ -11,7 +15,6 @@
 * 🛠️ Luôn thử nghiệm các công cụ & framework mới
 
 ## 💻 Tech Stack
-[Ở ĐÂY BẠN CHÈN CÁC BADGE CÔNG NGHỆ]
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)

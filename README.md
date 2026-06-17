@@ -2,17 +2,15 @@
 
 <img src="LINK_ẢNH_BANNER_CỦA_BẠN_NẾU_CÓ" alt="Banner" width="100%">
 
+## ✨ Who am I?
+* 🏫 **Education:** Pursuing an IT degree in an all-English academic environment at HCMIU.
+* 💡 **Interests:** Frontend Web Design, Embedded Systems, Robotics, and Artificial Intelligence.
+* 🧠 **Learning Approach:** Highly self-motivated, currently learning and sharpening my coding skills through YouTube and hands-on projects.
+
 ## 👨‍💻 About Me
 * 🎓 **Information Technology** student at **International University - VNU-HCM** (HCMIU).
 * 🎯 Passionate about **Software Engineering** and **Web Development**.
 * 🚀 Constantly learning new technologies and building cool side projects.
-* ⚡ Fun fact: I spend my free time playing soccer ⚽ with friends and exploring AI tools!
-
-
-## 🚀 What I Do
-* 💻 Phát triển Web (Frontend & Backend)
-* ✨ Thích làm việc với các công nghệ web hiện đại
-* 🛠️ Luôn thử nghiệm các công cụ & framework mới
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

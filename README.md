@@ -3,7 +3,7 @@
 <img src="LINK_ẢNH_BANNER_CỦA_BẠN_NẾU_CÓ" alt="Banner" width="100%">
 
 ## ✨ Who am I?
-* 🏫 **Education:** Pursuing an IT degree in an all-English academic environment at HCMIU.
+* 🎓 **Education:** Pursuing an IT degree in an all-English academic environment at **International University - VNU-HCM** (HCMIU).
 * 💡 **Interests:** Frontend Web Design, Embedded Systems, Robotics, and Artificial Intelligence.
 * 🧠 **Learning Approach:** Highly self-motivated, currently learning and sharpening my coding skills through YouTube and hands-on projects.
 

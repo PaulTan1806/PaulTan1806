@@ -25,6 +25,4 @@
 
 
 ## 📫 Let's Connect
-* 💬 Telegram: [@user_cua_ban](https://t.me/user_cua_ban)
-* 📧 Email: [user@gmail.com](mailto:user@gmail.com)
-* 🔗 GitHub: [https://github.com/user_cua_ban](https://github.com/user_cua_ban)
+* 📧 Email: [phatta0923@gmail.com](mailto:phatta0923@gmail.com)

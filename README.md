@@ -10,8 +10,6 @@
 ## 🚀 What I Do
 
 * 🎨 **Frontend Web Design:** Crafting modern, responsive, and visually appealing web interfaces with a strong focus on User Experience (UX).
-* 🤖 **Embedded Systems & Robotics:** Programming microcontrollers, integrating sensors, and designing the logic that brings hardware and robots to life.
-* 🧠 **AI Integration:** Exploring ways to implement Artificial Intelligence into web applications and smart hardware systems.
 * 📚 **Continuous Learning:** Actively self-learning and sharpening my programming toolkit by watching tech tutorials on YouTube and building hands-on projects.
 
 
@@ -23,14 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 [React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🤖 Embedded & Robotics
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
-### 🧠 Artificial Intelligence & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 
 ## 📫 Let's Connect
